@@ -1,0 +1,48 @@
+@charset "utf-8";
+/*CSS Document */
+
+
+p {
+	color: black;
+	font-family: Times New Roman "serif";
+	font-size: 18px;
+	line-height: 18px;
+	width: 600px;
+	background-color: antiquewhite;
+	background-image: url(pics/pozadina1.jpg);
+	padding: 20px;
+	margin: 20px;
+	}
+
+	.p2 {color: black;
+		width: 600px
+		background-color: antiquewhite; 
+		background-image: url(pics/pozadina1.jpg) ;} 
+
+
+	h1 {font-family: Lucida Handwriting, "cursive;";
+		color: hotpink;
+		font-size: 50px;
+		width: 600px
+		margin: 20px;
+		padding: 20px;
+		}
+
+	h2 {font-family: Lucida Handwriting, "cursive;";
+		color: hotpink;
+		font-size: 30px;
+		width: 600px
+		padding: 20px;
+		margin: 20px;
+		}
+
+	h3 {font-family: Lucida Handwriting, "cursive;";
+		color: hotpink;
+		width: 600px
+		}
+
+	.p3 {color: black; background-color: antiquewhite; background-image: url(pics/pozadina1.jpg);}	
+
+
+
+
