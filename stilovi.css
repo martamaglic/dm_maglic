@@ -17,7 +17,8 @@ p {
 	.p2 {color: black;
 		width: 600px
 		background-color: antiquewhite; 
-		background-image: url(pics/pozadina1.jpg) ;} 
+		background-image: url(pics/pozadina1.jpg);
+} 
 
 
 	h1 {font-family: Lucida Handwriting, "cursive;";
@@ -41,7 +42,8 @@ p {
 		width: 600px
 		}
 
-	.p3 {color: black; background-color: antiquewhite; background-image: url(pics/pozadina1.jpg);}	
+	.p3 {color: black; background-color: antiquewhite; background-image: url(pics/pozadina1.jpg);
+}	
 
 
 
